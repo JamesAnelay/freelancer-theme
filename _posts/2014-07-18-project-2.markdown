@@ -1,0 +1,12 @@
+---
+layout: default
+modal-id: 2
+date: 2014-07-18
+img: revital-main.png
+alt: image-alt
+project-date: April 2014
+client: Revital
+category: Web Development
+description: Re-themed, upgraded, and optimized this website. Investigated current code and made speed improvements using tools such as Magento ECG, upgraded to the latest enterprise version, and rebuilt the theme.
+
+---

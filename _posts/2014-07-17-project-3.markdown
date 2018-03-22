@@ -1,0 +1,12 @@
+---
+layout: default
+modal-id: 3
+date: 2014-07-17
+img: revupsports-main.png
+alt: image-alt
+project-date: April 2014
+client: Start Bootstrap
+category: Ecommerce Development
+description: Brought onto this project to improve poor performance, we managed to massivly decrease the load on the server and bring some page times down from +40 seconds to just a few seconds. Involved a large cleanup/re-write of existing 3rd party extensions and a brand new theme.
+
+---

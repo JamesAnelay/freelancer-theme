@@ -1,0 +1,12 @@
+---
+layout: default
+modal-id: 1
+date: 2014-07-16
+img: rivers-main.png
+alt: image-alt
+project-date: Feb 2018
+client: Start Bootstrap
+category: Laravel Development
+description: As a traveler, some facilities can be difficult to find when having to search online in new languages. For this reason, I built this Laravel-based location search website to allow me to find laundromats and public services on the move. Written with TDD in mind, I built the locations and search options as well as imported scraping scripts to allow me to upload maps from multiple other websites.
+
+---
