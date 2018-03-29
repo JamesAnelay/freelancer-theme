@@ -1,0 +1,14 @@
+---
+layout: default
+modal-id: 20
+date: 2017-06-17
+img: tddlaravel.png
+alt: image-alt
+project-date: April 2014
+client: Start Bootstrap
+category: Ecommerce Development
+description: I am continualy looking to improve my knowledge, I saw this TDD course and had to sign up. Following the course I created platform for local concert promoters to sell tickets to their events. Over the course of 166 lessons spanning just under 22 hours of content.
+
+
+
+---

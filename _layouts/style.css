@@ -1,2 +1,6 @@
 {% include css/bootstrap.min.css %}
 {% include css/main.css %}
+
+.portfolio-item:nth-child(4){
+	clear:left;
+}

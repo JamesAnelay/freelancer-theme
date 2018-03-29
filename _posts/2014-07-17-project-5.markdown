@@ -1,0 +1,14 @@
+---
+layout: default
+modal-id: 10
+date: 2017-07-17
+img: tradecultivator.png
+alt: image-alt
+project-date: April 2014
+client: Start Bootstrap
+category: Laravel
+description: Now visible at https://www.tradecultivator.io I built this online trading log to track my own trades in the stock market. It provides me with a simple form to open and close trades along with important statistics such as win rate calculated on my closed trades.
+
+
+
+---
