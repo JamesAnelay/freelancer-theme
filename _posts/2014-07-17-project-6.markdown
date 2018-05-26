@@ -1,0 +1,14 @@
+---
+layout: default
+modal-id: 5
+date: 2017-07-17
+img: ontheperiphery.jpg
+alt: image-alt
+project-date: April 2014
+client: Start Bootstrap
+category: Laravel
+description: OnThePeriphery airbnb style booking system for glamping locations. Over the course of a few short weeks I built this online booking website for glamping. First I helper decide on the most MVP website we could make - in this case - Functionality to view a location and make a booking was made first, and then functionality to search for a location. By first thinking about what the a useful MVP would look like I was able to build a functional version of the website in just 1 and a half weeks. This sytem consisted of a homepage, search functionality and functionality to make a booking and recieve information via e-mail. By working in this way we were able to get a useful product out the door asap rather than getting stuck in the weeds of less useful/unrequired features e.g we left out authentication to being with and bookings were made via e-mail. Then once that MVP was ready for live, we continued to build upon the system using the suite of tests I had oput inplace to implementmore featues such as login, client to owner communication etc.
+
+
+
+---
